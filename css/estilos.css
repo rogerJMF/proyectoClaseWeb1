@@ -29,6 +29,12 @@ figure {
     justify-content: space-between;
     
 }
+.flexContainer3{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    text-align: center;
+}
 
 .divIzquierdo{
     width: 70%;
@@ -39,8 +45,17 @@ figure {
 .divDerecho{
     width: 28%;
     height: 100px;
-    background-color: rgb(57, 0, 212);
 }
+
 .div2{
     display: flex;
+}
+
+.divFondoIzquierdo{
+    width: 50px;
+}
+
+.imagentamaño {
+    width: 100px;
+    height: 100px;
 }

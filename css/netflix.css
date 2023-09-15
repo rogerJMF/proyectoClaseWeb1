@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+.flexContainer{
+    display: flex;
+}
+nav{
+    height: 100px;
+}
+a{
+    color: white;
+}
+.div1{
+    width: 20%;
+
+}
+.div2{
+      width: 40%;
+      display: flex;
+      justify-content: space-between;
+}
+.div3{
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+
+} 
+.imagenlogo{
+    width: 120px;
+    height: 80px;
+}
